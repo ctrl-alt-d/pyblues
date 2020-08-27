@@ -8,3 +8,19 @@ Proof of concept (POC) stage.
 * Install requirements
 * Run `python3 main.py`
 
+![Sample score](Scores/poc.png)
+
+## Todo
+
+* Create UI (pygame?)
+* Set pulse time, change score when curremt one is finished.
+* Show current score and next one.
+* Show traks grouped by 8 bars.
+```
+    "I",	"I",	"I",	"I",
+    "IV",	"IV",	"I",	"I",
+    "V",	"V",	"I",	"I",
+```    
+* Introduce variations.
+* Allow change key.
+* Add riffs.
