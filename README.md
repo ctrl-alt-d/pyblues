@@ -1,0 +1,2 @@
+# pyblues
+Blues core generator
